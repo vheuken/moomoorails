@@ -2,7 +2,7 @@
 lock '3.3.5'
 
 set :application, 'MooMoo'
-set :repo_url, 'git@github.com:vheuken/moomooorails.git'
+set :repo_url, 'git@github.com:vheuken/moomoorails.git'
 
 # rvm stuff
 set :rvm_type, :user
