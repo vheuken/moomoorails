@@ -17,6 +17,7 @@ role :db,  %w{moomoo@vincentheuken.com}
 
 server 'vincentheuken.com', user: 'moomoo', roles: %w{web app}
 
+set :deploy_to, "~/moomoorails"
 
 # Custom SSH Options
 # ==================
